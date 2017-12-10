@@ -10,7 +10,7 @@ import java.util.*;
 public class ArrayAndStrings {
 
 	/**
-	 * 1.1 - Using Map datastructure
+	 * 1.1 - Using Map data structure
 	 * @param s
 	 * @return
 	 */
